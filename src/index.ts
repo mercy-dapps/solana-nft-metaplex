@@ -1,7 +1,5 @@
 import { initializeKeypair } from "./initializeKeypair";
 import { Connection, clusterApiUrl, PublicKey, Signer } from "@solana/web3.js";
-
-// @ts-ignore
 import {
   Metaplex,
   keypairIdentity,
